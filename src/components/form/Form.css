@@ -1,0 +1,42 @@
+.formWrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    align-items: end;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.radioBtns {
+    display: flex;
+    margin: 10px;
+}
+
+label {
+    font-size: 18px;
+}
+
+.inputWrap {
+    display: flex;
+    gap: 20px;
+}
+
+.input {
+    font-size: 22px;
+}
+
+.btn {
+    font-size: 22px;
+    padding: 5px 20px;
+}
+
+.save {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    padding: 18px 10px;
+    margin-left: 10px;
+}

@@ -1,9 +1,10 @@
-
-import './App.css';
+import React from "react";
+import Content from "./components/content/Content";
 
 function App() {
   return (
     <div className="App">
+      <Content />
     </div>
   );
 }
